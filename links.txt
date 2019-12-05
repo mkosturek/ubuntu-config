@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/1057853/nvidia-card-for-cuda-and-intel-integrated-card-for-display-on-ubuntu-16-04-dell
