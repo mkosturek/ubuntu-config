@@ -3,3 +3,4 @@
 sudo apt install vim git guake tmux htop
 sudo apt install exfat-fuse exfat-utils
 
+sudo apt-get install openssh-server
